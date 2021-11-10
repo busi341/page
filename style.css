@@ -32,6 +32,11 @@ aside h1 span{
 }
 .info h1{
   font-family: 'Ubuntu', sans-serif;
+
+
+}
+.info span{
+  color: #ffbf00;
 }
 .info p{
   font-family: 'Ubuntu', sans-serif;
@@ -89,7 +94,7 @@ nav li{
   width: 20%;
   /*border: 1px solid magenta;*/
 }
-#my_info{
+#main_info{
   display: flex;
   flex-direction: column;
   justify-content: center;
